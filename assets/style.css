@@ -8,6 +8,12 @@ p {
   color: red;
 }
 
+#cabecalho1 {
+  text-align: center;
+  color: blue;
+  backgorund-image: url("");
+}
+
 #paragrafo1 {
   text-align: center;
   color: yellow;
