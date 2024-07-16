@@ -7,3 +7,8 @@ h1 {
 p {
   color: red;
 }
+
+#paragrafo1 {
+  text-align: center;
+  color: yellow;
+}
