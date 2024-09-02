@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+[My First Keylogger](https://github.com/s3ntinel4/my-first-keylogger).
 
 There should be whitespace between paragraphs.
 
