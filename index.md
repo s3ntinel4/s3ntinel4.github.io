@@ -10,6 +10,8 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Email Analyzer](https://github.com/s3ntinel4/Email-Analyzer)
 
+[My Gitbook for Cloud Projects](https://s3ntinel-docs.gitbook.io/aws-project)
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
