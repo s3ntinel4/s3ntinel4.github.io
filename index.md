@@ -8,6 +8,8 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Windows AD Installation Guide](https://github.com/s3ntinel4/WindowsADinstall).
 
+[Email Analyzer](https://github.com/s3ntinel4/Email-Analyzer)
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
