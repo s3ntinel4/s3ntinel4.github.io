@@ -4,13 +4,15 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[My First Keylogger](https://github.com/s3ntinel4/my-first-keylogger).
+My main projects:
 
-[Windows AD Installation Guide](https://github.com/s3ntinel4/WindowsADinstall).
+*  [My First Keylogger](https://github.com/s3ntinel4/my-first-keylogger).
 
-[Email Analyzer](https://github.com/s3ntinel4/Email-Analyzer)
+*  [Windows AD Installation Guide](https://github.com/s3ntinel4/WindowsADinstall).
 
-[My Gitbook for Cloud Projects](https://s3ntinel-docs.gitbook.io/aws-project)
+*  [Email Analyzer](https://github.com/s3ntinel4/Email-Analyzer)
+
+*  [My Gitbook for Cloud Projects](https://s3ntinel-docs.gitbook.io/aws-project)
 
 There should be whitespace between paragraphs.
 
