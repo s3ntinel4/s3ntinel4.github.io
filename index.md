@@ -35,8 +35,8 @@ Descricao
 
 ## Social Medias
 
-- LinkedIn: [Carlos Henrique](https://www.linkedin.com/in/carloshenrique-blueteamsecurity/)
-- GitHub: [s3ntinel4](https://github.com/s3ntinel4)
-- Instagram: [s3ntinel.sec](https://www.instagram.com/s3ntinel.sec)
+- [LinkedIn](https://www.linkedin.com/in/carloshenrique-blueteamsecurity/)
+- [GitHub](https://github.com/s3ntinel4)
+- [Instagram](https://www.instagram.com/s3ntinel.sec)
 
 &copy; 2024 [Carlos Henrique]. Todos os direitos reservados.
