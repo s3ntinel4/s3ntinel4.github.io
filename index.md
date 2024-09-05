@@ -25,9 +25,9 @@ Descricao
 
 ## Certifications and Courses
 
-#### [Google CyberSecurity] - [Coursera]
+### Google CyberSecurity - Coursera
 
-#### [Associate's Degree in CyberSecurity] - [UNOPAR]
+### Associate's Degree in CyberSecurity - UNOPAR
 
 ### Small image
 
