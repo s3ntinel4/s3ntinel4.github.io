@@ -34,3 +34,5 @@ Descricao
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/bot.hunk.png)
 
 ### Definition lists can be used with HTML 
+
+&copy; 2024 [Carlos Henrique]. Todos os direitos reservados.
