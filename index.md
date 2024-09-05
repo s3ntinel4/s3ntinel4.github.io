@@ -34,7 +34,7 @@ Descricao
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/bot.hunk.png)
 
-Hoping to be TOP 0,1% soon...
+Focusing to be TOP 0,1% soon...
 
 ## Social Medias
 
