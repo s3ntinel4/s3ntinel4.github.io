@@ -106,7 +106,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://tryhackme-badges.s3.amazonaws.com/bot.hunk.png)
 
 ### Large image
 
