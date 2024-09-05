@@ -1,64 +1,31 @@
+## About Me
+
+
+> Is all about consistency ...
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-My main projects:
-
-*  [My First Keylogger](https://github.com/s3ntinel4/my-first-keylogger).
-
-*  [Windows AD Installation Guide](https://github.com/s3ntinel4/WindowsADinstall).
-
-*  [Email Analyzer](https://github.com/s3ntinel4/Email-Analyzer)
-
-*  [My Gitbook for Cloud Projects](https://s3ntinel-docs.gitbook.io/aws-project)
-
-## Projetos
+## Projects
 
 #### [My First Keylogger](https://github.com/s3ntinel4/my-first-keylogger)
 
+Descricao
+
 #### [Windows AD Installation Guide](https://github.com/s3ntinel4/WindowsADinstall)
+
+Descricao
 
 #### [Email Analyzer](https://github.com/s3ntinel4/Email-Analyzer)
 
+Descricao
+
 #### [My Gitbook for Cloud Projects](https://s3ntinel-docs.gitbook.io/aws-project)
 
-## Header 2
+Descricao
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Certifications and Courses
 
-### There's a horizontal rule below this.
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
