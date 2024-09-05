@@ -10,7 +10,7 @@ My main projects:
 
 *  [My Gitbook for Cloud Projects](https://s3ntinel-docs.gitbook.io/aws-project)
 
-## Projetos
+**Projetos**
 
 * * *
 
