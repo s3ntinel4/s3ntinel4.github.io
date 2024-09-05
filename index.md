@@ -4,8 +4,6 @@ Hi, my name is Carlos Henrique, a cybersecurity student with experience in `help
 
 > Is all about consistency ...
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
 ## Projects
 
 #### [My First Keylogger](https://github.com/s3ntinel4/my-first-keylogger)
