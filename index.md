@@ -18,6 +18,12 @@ My main projects:
 
 #### [My First Keylogger](https://github.com/s3ntinel4/my-first-keylogger)
 
+#### [Windows AD Installation Guide](https://github.com/s3ntinel4/WindowsADinstall)
+
+#### [Email Analyzer](https://github.com/s3ntinel4/Email-Analyzer)
+
+#### [My Gitbook for Cloud Projects](https://s3ntinel-docs.gitbook.io/aws-project)
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
