@@ -30,9 +30,11 @@ Descricao
 
 #### Associate's Degree in CyberSecurity - UNOPAR
 
-### Small image
+### One of my recents achievements, TOP 1% at TryHackMe
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/bot.hunk.png)
+
+Hoping to be TOP 0,1% soon...
 
 ## Social Medias
 
