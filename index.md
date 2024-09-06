@@ -21,8 +21,8 @@ This email analyzer intergrate python with a VirusTotal API, an amazing tool tha
 
 #### [Cloud Projects](https://s3ntinel-docs.gitbook.io/aws-project)
 
-As i am studying also cloud security, i decided to create an gitbook to document some projects.
-
+As i am studying also cloud security, i decided to create an gitbook to document some projects, like the first one presented which is a Safe AWS VPC environment.
+The mainly purpose is to document the projects in AWS, Azure and GCP infraestructure.
 
 
 ## Certifications and Courses
