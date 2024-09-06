@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, my name is Carlos Henrique, a cybersecurity student with experience in `helpdesk`, `network troubleshooting` and `customer support`, i fell in love with cybersecurity few years ago since then i began my journey with focus in the blue side of the force and cloud security.
+Hi, my name is Carlos Henrique, a cybersecurity student with experience in `helpdesk`, `network troubleshooting` and `customer support`, i fell in love with cybersecurity few years ago since then i began my journey with focus in blue team and cloud security.
 
 > Is all about consistency ...
 
