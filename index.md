@@ -4,6 +4,7 @@ Hi, my name is Carlos Henrique, a cybersecurity student with experience in `help
 
 > Is all about consistency ...
 
+
 ## Projects
 
 #### [Python Keylogger](https://github.com/s3ntinel4/my-first-keylogger)
@@ -22,11 +23,13 @@ This email analyzer intergrate python with a VirusTotal API, an amazing tool tha
 
 As i am studying also cloud security, i decided to create an gitbook to document some projects.
 
+
 ## Certifications and Courses
 
 #### Google CyberSecurity - Coursera
 
 #### Associate's Degree in CyberSecurity - UNOPAR
+
 
 ### One of my recents achievements, TOP 1% at TryHackMe
 
