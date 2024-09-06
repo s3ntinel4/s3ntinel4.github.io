@@ -19,7 +19,7 @@ Since the first time that i saw in high school, i always had the curiosity to kn
 
 This email analyzer intergrate python with a VirusTotal API, an amazing tool that i also recommend to every security student to dive into, not only the web version but also the API.
 
-#### [My Gitbook for Cloud Projects](https://s3ntinel-docs.gitbook.io/aws-project)
+#### [Cloud Projects](https://s3ntinel-docs.gitbook.io/aws-project)
 
 As i am studying also cloud security, i decided to create an gitbook to document some projects.
 
