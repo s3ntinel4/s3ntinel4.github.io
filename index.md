@@ -45,4 +45,4 @@ Focusing to be TOP 0,1% soon...
 - [GitHub](https://github.com/s3ntinel4)
 - [Instagram](https://www.instagram.com/s3ntinel.sec)
 
-&copy; 2024 [Carlos Henrique]. Todos os direitos reservados.
+&copy; 2024 [Carlos Henrique]. All rights reserved.
