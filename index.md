@@ -6,21 +6,21 @@ Hi, my name is Carlos Henrique, a cybersecurity student with experience in `help
 
 ## Projects
 
-#### [My First Keylogger](https://github.com/s3ntinel4/my-first-keylogger)
+#### [Python Keylogger](https://github.com/s3ntinel4/my-first-keylogger)
 
-Descricao
+The first project in cybersecurity, the idea for the tool was to implement python code along with cybersecurity concepts, but, the main focus is to be educational purpose.
 
 #### [Windows AD Installation Guide](https://github.com/s3ntinel4/WindowsADinstall)
 
-Descricao
+Since the first time that i saw in high school, i always had the curiosity to know more about the tool but i had a hard time struggling with the initial steps, so i decided to create an installation guide to help others, it take some time but it was worth it.
 
 #### [Email Analyzer](https://github.com/s3ntinel4/Email-Analyzer)
 
-Descricao
+This email analyzer intergrate python with a VirusTotal API, an amazing tool that i also recommend to every security student to dive into, not only the web version but also the API.
 
 #### [My Gitbook for Cloud Projects](https://s3ntinel-docs.gitbook.io/aws-project)
 
-Descricao
+As i am studying also cloud security, i decided to create an gitbook to document some projects.
 
 ## Certifications and Courses
 
