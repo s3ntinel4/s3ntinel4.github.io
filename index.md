@@ -24,6 +24,9 @@ This email analyzer intergrate python with a VirusTotal API, an amazing tool tha
 As i am studying also cloud security, i decided to create an gitbook to document some projects, like the first one presented which is a Safe AWS VPC environment.
 The mainly purpose is to document the projects in AWS, Azure and GCP infraestructure.
 
+#### [EDR Home Lab](https://github.com/s3ntinel4/EDR-Home-Lab)
+
+A EDR home lab project to simulate real cyber attacks by both attack and defense perspective, the idea came from the Eric's Capuano [blog](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro) post.
 
 ## Certifications and Courses
 
