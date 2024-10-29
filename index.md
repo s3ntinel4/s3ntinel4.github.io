@@ -38,7 +38,7 @@ A EDR home lab project to simulate real cyber attacks by both attack and defense
 
 ### One of my recents achievements, TOP 1% at TryHackMe
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/bot.hunk.png)
+![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=388584)
 
 Focusing to be TOP 0,1% soon...
 
