@@ -39,6 +39,6 @@ The project consist in my first use of CI/CD using GitHub Actions.
 
 - [LinkedIn](https://www.linkedin.com/in/carloshenrique-blueteamsecurity/)
 - [GitHub](https://github.com/s3ntinel4)
-- [Instagram](https://www.instagram.com/s3ntinel.sec)
+- [Instagram](https://www.instagram.com/s3ntinel.devops)
 
 &copy; 2024 [Carlos Henrique]. All rights reserved.
