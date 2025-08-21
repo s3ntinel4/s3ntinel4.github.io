@@ -35,13 +35,6 @@ The project consist in my first use of CI/CD using GitHub Actions.
 #### Associate's Degree in CyberSecurity - UNOPAR
 
 
-
-### One of my recents achievements, TOP 1% at TryHackMe
-
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/bot.hunk.png)
-
-Focusing to be TOP 0,1% soon...
-
 ## Social Medias
 
 - [LinkedIn](https://www.linkedin.com/in/carloshenrique-blueteamsecurity/)
