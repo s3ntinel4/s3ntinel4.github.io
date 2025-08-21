@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, my name is Carlos Henrique, a devops student acting currently as support analyst with experience in **helpdesk**, **network troubleshooting** and **customer support**, chasing an devops carrer.
+Hi, my name is Carlos Henrique, a devops student acting currently as support analyst with experience in **helpdesk**, **network troubleshooting** and **customer support**, since i fell in love with devops i started focusing in courses and projects in the area.
 
 > Is all about consistency ...
 
